@@ -1,6 +1,6 @@
-# Job Recommender
+# CareerCrafter
 
-Job Recommender is a machine learning-based system that recommends job listings to users based on their skills and preferences. The system uses both collaborative filtering and content-based approaches to generate recommendations. The application uses OpenAI's GPT-3 API to generate a list of job titles that match the user's skills.
+CareerCrafter is a machine learning-based system that recommends job listings to users based on their skills and preferences. The system uses both collaborative filtering and content-based approaches to generate recommendations. The application uses OpenAI's GPT-3 API to generate a list of job titles that match the user's skills.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Job Recommender is a machine learning-based system that recommends job listings 
 
 ## Getting Started
 
-To get started with JobRecommender, follow these steps:
+To get started with CareerCrafter, follow these steps:
 
 1. Clone the repository or download the zip file.
 2. Open the index.html file in a web browser.
@@ -33,7 +33,7 @@ If you would like to contribute to Job Recommender, you are welcome to submit a 
 
 ## License
 
-Job Recommender is released under the MIT License. See the LICENSE file for details.
+CareerCrafter is released under the MIT License. See the LICENSE file for details.
 
 ## Future Work
 
@@ -50,7 +50,7 @@ Job Recommender is released under the MIT License. See the LICENSE file for deta
 
 ## Contributors
 
-Job Recommendar project is developed for Hack The Break 2023 event by:
+CareerCrafter project is developed for Hack The Break 2023 event by:
 
 1. Kaung Khant Ko (Project Manager) (https://github.com/kaungkhantko)
 2. Min Kaung Khant (Web Developer) (https://github.com/mkk100)
