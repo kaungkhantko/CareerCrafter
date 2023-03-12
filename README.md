@@ -75,6 +75,6 @@ CareerCrafter project is developed for Hack The Break 2023 event by:
 
 ## Acknowledgements
 
-The project is inspired by: Career Navigator and Roadmap function from Project Management Institute (pmi.org)
-Open AI for providing the GPT-3 API.
-Hack The Break 2023 for the opportunity to build this project.
+- This project was inspired by Career Navigator from Project Management Institute (pmi.org). 
+- Open AI for providing the GPT-3 API. 
+- Hack The Break 2023 for the opportunity to build this project.
