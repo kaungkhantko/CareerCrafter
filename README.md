@@ -12,18 +12,18 @@ CareerCrafter is a machine learning-based system that recommends job listings to
 - [Contributors](#contributors)
 - [Acknowledgements](#acknowledgements)
 
-## ## Installation
+## Installation
 
 To run this project, you need to have Node.js and NPM installed on your machine.
 
 1. Clone the repository to your local machine
-> git clone https://github.com/kaungkhantko/CareerCrafter.git
+> ```git clone https://github.com/kaungkhantko/CareerCrafter.git```
 2. Navigate to the project directory
-> cd CareerCrafter
+> ```cd CareerCrafter```
 3. Install the required dependencies
-> npm install
+> ```npm install```
 4. Start the server
-> npm start
+> ```npm start```
 5. Open your browser and go to `http://localhost:3000`
 
 That's it! You should now be able to use the CareerCrafter application.
